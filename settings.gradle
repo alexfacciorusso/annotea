@@ -1,0 +1,4 @@
+include 'annotea'
+include 'annotea-sample'
+include 'annotea-processor'
+
